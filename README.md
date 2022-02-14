@@ -1,10 +1,12 @@
 # Jumpstart Series
 
-This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) series on YouTube. Each branch corresponds to an episode. 
+This repository is part of the MongoDB [Jumpstart](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) series on YouTube. Each branch corresponds to an episode.
+
+## Different Branches
 
 ## Frontend Build Branch
 
-In the corresponding video for this branch, we build out our e-commerce project frontend using Next.js, Tailwind CSS, and MongoDB. 
+In the corresponding video for this branch, we build out our e-commerce project frontend using Next.js, Tailwind CSS, and MongoDB.
 
 We use the two MongoDB Realm functions that we created in the previous video to populate our products from our MongoDB Atlas database.
 
@@ -41,4 +43,4 @@ We use the two MongoDB Realm functions that we created in the previous video to 
 
 ## Questions?
 
-Questions about this repo or how to use MongoDB Atlas?  Ask them in the [MongoDB Community](https://community.mongodb.com).
+Questions about this repo or how to use MongoDB Atlas? Ask them in the [MongoDB Community](https://community.mongodb.com).
